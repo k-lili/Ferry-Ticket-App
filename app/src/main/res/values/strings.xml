@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Ferry Tickets</string>
+    <string name="catalina_ferry_tickets">Catalina Ferry Tickets</string>
+    <string name="compute_cost">Compute Cost</string>
+    <string name="enter_no_of_passengers">Number of tickets</string>
+    <string-array name="dest_array">
+        <item>To Catalina Island</item>
+        <item>To Long Beach</item>
+    </string-array>
+    <string name="dest_prompt">Select Destination</string>
+</resources>
